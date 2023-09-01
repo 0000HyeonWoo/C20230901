@@ -2,6 +2,15 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.2",
 	"Category": "",
-	"Description": 
-	
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "C20230901",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
 }
